@@ -9,5 +9,4 @@ public class RenteeLoginThymeleafApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RenteeLoginThymeleafApplication.class, args);
 	}
-
 }

@@ -12,11 +12,15 @@
 			<th>Society</th>
 			<th>Personal Details</th>
 			
-		</tr>
+		</tr><tr>
 		<tr th:each="mentee:${mentees}">
+		<td>Id:</td>
 		<td th:text="${mentee.id}"></td>
+		<td>Name:</td>
 		<td th:text="${mentee.name}"></td>
+		<td>Society:</td>
 		<td th:text="${mentee.society}"></td>
+		<td>Info:</td>
 		<td th:text="${mentee.info}"></td>
 		</tr>
 	</table>
