@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Mentee Login | Rentee details</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th>Reg#</th>
+			<th>Name</th>
+			<th>Society</th>
+			<th>Personal Details</th>
+			
+		</tr>
+		<tr th:each="mentee:${mentees}">
+		<td th:text="${mentee.id}"></td>
+		<td th:text="${mentee.name}"></td>
+		<td th:text="${mentee.society}"></td>
+		<td th:text="${mentee.info}"></td>
+		</tr>
+	</table>
+
+</body>
+</html>
