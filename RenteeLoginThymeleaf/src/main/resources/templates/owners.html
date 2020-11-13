@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Owner Details</title>
+</head>
+<body>
+
+	<table border="1" style="border-color: black;align-self: center;">
+		<tr>
+			<th>Id</th>
+			<th>Owner Name</th>
+			<th>Shop Name</th>
+			<th>Address</th>
+
+			<th>Phone No.</th>
+			<th>Country Code</th>
+			<th>Email ID</th>
+			<th>GST#</th>
+			<th>PAN#</th>
+			<th>Aadhar No.</th>
+		</tr>
+		<tr>
+		<tr th:each="owner:${owners}">
+
+			<td th:text="${owner.id}"></td>
+
+			<td th:text="${owner.name}"></td>
+
+			<td th:text="${owner.shop.shopTitle}"></td>
+
+			<td th:text="${owner.shop.location}"></td>
+			<td th:text="${owner.phone}"></td>
+			<td th:text="${owner.countryCode}"></td>
+			<td th:text="${owner.email}"></td>
+			<td th:text="${owner.gst}"></td>
+			<td th:text="${owner.pan}"></td>
+			<td th:text="${owner.aadhar}"></td>
+		</tr>
+	</table>
+
+</body>
+</html>

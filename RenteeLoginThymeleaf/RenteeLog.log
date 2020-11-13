@@ -1,0 +1,59 @@
+2020-11-12 19:37:44 INFO â Connection created.
+2020-11-12 19:46:05 INFO â Connection created.
+2020-11-12 23:53:00 INFO â Connected to the PostgreSQL server successfully.
+2020-11-12 23:56:05 INFO â Connected to the PostgreSQL server successfully.
+2020-11-12 23:57:43 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:22:24 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:24:53 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:25:51 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:28:44 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:30:52 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:30:52 INFO â Exception null
+2020-11-13 00:32:18 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:32:18 INFO â Exception null
+2020-11-13 00:33:58 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:33:58 INFO â Exception null
+2020-11-13 00:35:28 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:35:28 INFO â Exception null
+2020-11-13 00:44:08 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:44:08 INFO â Exception null
+2020-11-13 00:47:30 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:47:30 INFO â Exception null
+2020-11-13 00:52:50 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 00:52:50 INFO â Exception null
+2020-11-13 16:01:03 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:01:03 INFO â Exception null
+2020-11-13 16:08:24 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:08:24 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 16:09:49 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:09:49 INFO â Exception null
+2020-11-13 16:10:30 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:10:30 INFO â Exception null
+2020-11-13 16:11:18 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:11:18 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 16:12:21 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:12:22 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 16:13:11 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:23:22 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:23:22 INFO â Exception null
+2020-11-13 16:58:24 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 16:58:24 INFO â Exception null
+2020-11-13 17:00:20 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 17:01:26 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:55:02 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:55:02 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 19:55:26 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:55:26 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 19:56:19 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:56:19 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 19:57:21 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:57:21 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 19:57:51 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:57:51 INFO â list display Exception Bad value for type int : 3243242347
+2020-11-13 19:59:06 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 19:59:55 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 20:01:16 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 20:02:42 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 20:04:51 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 20:41:54 INFO â Connected to the PostgreSQL server successfully.
+2020-11-13 22:12:00 INFO â Connected to the PostgreSQL server successfully.
