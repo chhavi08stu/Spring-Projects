@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_AOP
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: Spring_AOP
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/Spring_AOP
+Created-By: Maven Integration for Eclipse
+
