@@ -10,21 +10,21 @@ public class LoginUser {
 	
 	/** Users Id & Name **/
 	public LoginUser(int userId,String userName) {
-		userId=this.userId;
-		userName=this.userName;
+		this.userId=userId;
+		this.userName=userName;
 	}
 	/** Users Login details **/
-	public LoginUser(int userId, String userName, char[] password) {
-		userId=this.userId;
-		userName=this.userName;
-		password=this.password;
+	protected LoginUser(int userId, String userName, char[] password) {
+		this.userId=userId;
+		this.userName=userName;
+		this.password=password;
 	}
 	
 	/** Users details **/
 	public LoginUser(int userId,String userName,String userAddress) {
-		userId=this.userId;
-		userName=this.userName;
-		userAddress=this.userAddress;
+		this.userId=userId;
+		this.userName=userName;
+		this.userAddress=userAddress;
 	}
 	public String toString() {
 		return userId+" "+userName+" "+userAddress;
